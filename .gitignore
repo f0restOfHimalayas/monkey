@@ -1,0 +1,11 @@
+./**/bin
+.code
+./**/.temp
+./**/.tmp
+./**/tmp
+./**/*.exe
+./**/*.dll
+./**/.idea
+./**/.obj
+./**/obj
+Monkey/obj
